@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ScoreBoardApplication/1.0.0": {
+        "runtime": {
+          "ScoreBoardApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScoreBoardApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,48 @@
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.exe
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.deps.json
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.runtimeconfig.json
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.runtimeconfig.dev.json
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.dll
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ref\ScoreBoardApplication.dll
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.pdb
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.AssemblyInfoInputs.cache
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.AssemblyInfo.cs
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.dll
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ref\ScoreBoardApplication.dll
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.pdb
+C:\Users\Andrew\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.exe
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.deps.json
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.dll
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ref\ScoreBoardApplication.dll
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.pdb
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.dll
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ref\ScoreBoardApplication.dll
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.pdb
+C:\Users\andre\OneDrive\Desktop\Education\College\BTEC\Unit 4\Assignment 2\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.genruntimeconfig.cache
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.exe
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.deps.json
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.runtimeconfig.json
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.runtimeconfig.dev.json
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.dll
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\bin\Debug\net5.0-windows\ref\ScoreBoardApplication.dll
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\bin\Debug\net5.0-windows\ScoreBoardApplication.pdb
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.AssemblyInfo.cs
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.dll
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\obj\Debug\net5.0-windows\ref\ScoreBoardApplication.dll
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.pdb
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.genruntimeconfig.cache
+C:\Users\andre\source\repos\C#\ScoreBoardApplication\obj\Debug\net5.0-windows\ScoreBoardApplication.csproj.AssemblyReference.cache
